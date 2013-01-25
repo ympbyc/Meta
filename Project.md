@@ -1,5 +1,5 @@
-Goal of this project
-====================
+Goals of this project
+=====================
 
 2013 Minori Yamashita <ympbyc@gmail.com>
 
@@ -14,9 +14,7 @@ Ultimate Goal
   + of a living creature?
   + of a static object?
 + Is it a simulation?
-  + Is it implemented
-    - using functional paradigm?
-    - using OOP?
+  + Is it implemented using functional paradigm? using OOP?
 + How can we simulate or create a universe?
 
 Long Term Goals
@@ -28,7 +26,7 @@ Long Term Goals
 
 ### Create personal flying vehicle ###
 
-+ As accessible as motorcycle
++ As accessible as motorcycles
 + Idealy human-powered (almost impossible)
 
 Short Term Goals
@@ -40,14 +38,13 @@ Short Term Goals
 
 + Messaging
 + Immutable objects
-  + Objects are hashs, just like Javascript
+  + Objects are hashs, just like in Javascript
 + `__proto__` delegation
 + Methods are all asynchronous
 + Dynamically typed
 + More than almost purely functional
 + S-expression ?
 + Reserved-word-less programming
-+ Lazy evaluation
 
 ### Formulate Higher-order Applications ###
 
