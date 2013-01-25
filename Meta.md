@@ -1,6 +1,8 @@
 Meta
 ====
 
+2013 Minori Yamashita <ympbyc@gmail.com>
+
 この宇宙から一段メタな世界について考えたことをメモする。
 
 + 人間をパケットに乗せる。人間のデジタルコピー。 Pastaで実験
