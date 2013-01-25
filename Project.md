@@ -6,17 +6,17 @@ Goal of this project
 Ultimate Goal
 -------------
 
-### Reveal the Secret of the Universe ###
+### Reveal the Secrets of the Universe ###
 
-*See Meta.md*
+*See ympbyc/Meta/Meta.md*
 
 + Is it a cell
   + of a living creature?
   + of a static object?
 + Is it a simulation?
   + Is it implemented
-    + using functional paradigm?
-    + using OOP?
+    - using functional paradigm?
+    - using OOP?
 + How can we simulate or create a universe?
 
 Long Term Goals
@@ -41,7 +41,7 @@ Short Term Goals
 + Messaging
 + Immutable objects
   + Objects are hashs, just like Javascript
-+ __proto__ delegation
++ `__proto__` delegation
 + Methods are all asynchronous
 + Dynamically typed
 + More than almost purely functional
