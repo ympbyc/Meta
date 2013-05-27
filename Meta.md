@@ -60,3 +60,18 @@ Meta
 + 脳はModel、もしくはModelへの参照
 + 人体はView
 + 参照だとしたら同じModelを持つ人が複数いてもいい
+
+
+2013/5/27
+
++ A functions takes values and create a value
++ A process is a stream of functions
++ Walking is a process `[move_left_feet, move_right_arm, move_right_feet, ...]`
++ An app is a process -- User as event stream
+
+```
+var user = [click_a, input_text, click_b, ...]; //process
+_.reduce(user, function (app, f) { render(app); return f(app); }, app);
+```
+
++ Pasta is fairly close to this model
