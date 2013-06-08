@@ -63,7 +63,7 @@ Meta
 
 2013/5/27
 
-+ A functions takes values and create a value
++ A function takes values and creates a value
 + A process is a stream of functions
 + Walking is a process `[move_left_feet, move_right_arm, move_right_feet, ...]`
 + An app is a process -- User as event stream
